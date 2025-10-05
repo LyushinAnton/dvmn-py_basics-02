@@ -1,1 +1,1 @@
-# devman_courses-python_basics-02
+# dvmn-py_basics-02
